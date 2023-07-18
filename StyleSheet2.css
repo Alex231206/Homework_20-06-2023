@@ -1,0 +1,24 @@
+﻿h1 {
+    color: red
+}
+
+.paragraph{
+    border: 10px solid green;
+    border-radius: 10px;
+    font-size: 30px;
+    background: red;
+    padding: 20px;
+}
+
+.photo {
+    height: 500px;
+    width: 2500px;
+    align-items: center;
+}
+.paragraph2 {
+    font-size: 24px;
+    transform: rotate(10deg);
+    text-align: center;
+    margin-top: 240px;
+    text-shadow: #00FF00 1px 0 10px;
+}
